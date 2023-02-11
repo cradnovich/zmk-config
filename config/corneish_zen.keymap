@@ -79,9 +79,9 @@
         numpad_layer {
             label = "NUM";
             bindings = <
-            &kp TAB AS(SEMI) &kp LPAR &kp RPAR AS(BSLH) AS(FSLH) AS(N7) AS(N8) AS(N9) AS(MINUS)
+            &kp TAB AS(SEMI) &kp LPAR &kp RPAR AS(BSLH) AS(FSLH) AS(N1) AS(N2) AS(N3) AS(MINUS)
             &sk LSHFT &sk LCTRL &sk LALT &sk LGUI &sk CAPS AS(COMMA) AS(N4) AS(N5) AS(N6) AS(EQUAL)
-            &kp LA(MINUS) AS(GRAVE) AS(LBKT) AS(RBKT) &kp LS(LA(MINUS)) AS(N0) AS(N1) AS(N2) AS(N3) AS(DOT)
+            &kp LA(MINUS) AS(GRAVE) AS(LBKT) AS(RBKT) &kp LS(LA(MINUS)) AS(DOT) AS(N7) AS(N8) AS(N9) AS(N0)
             &trans &trans &trans &trans &trans &trans
             >;
         };
