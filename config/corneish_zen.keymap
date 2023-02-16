@@ -112,6 +112,6 @@
             &kp Z &kp X &kp C &kp V &kp B &kp N &kp M AS(COMMA) AS(DOT) AS(FSLH)
             &trans &trans &trans &trans &trans &trans
             >;
-        }
+        };
     };
 };
