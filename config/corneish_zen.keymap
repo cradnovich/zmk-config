@@ -78,10 +78,10 @@
             >;
         };
         hebrew_layer {
-            label = "HEB";
+            label = "QWERTY";
             bindings = <
             &kp Q &kp W &kp E &kp R &kp T &kp Y &kp U &kp I     &kp O   &kp P
-            &kp A &kp S &kp D &kp F &kp G &kp H &kp J &kp K     &kp L   AS(SQT)
+            &kp A &kp S &kp D &kp F &kp G &kp H &kp J &kp K     &kp L   AS(SEMI)
             &kp Z &kp X &kp C &kp V &kp B &kp N &kp M AS(COMMA) AS(DOT) AS(FSLH)
             &kp LSHFT &mo NUM &kp LGUI &kp SPACE &mo NAV &kp RET
             >;
